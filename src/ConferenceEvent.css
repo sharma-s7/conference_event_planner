@@ -6,7 +6,7 @@
   padding: clamp(12px, 3vw, 20px) clamp(15px, 4vw, 40px);
   background: linear-gradient(135deg, #133b6a 0%, #1a4b7a 100%);
   /* background: #e3f2fd; */
-  color: white;
+  color: black;
   width: 100%;
   position: fixed;
   top: 0;
@@ -51,7 +51,7 @@
 
 .nav_links a {
   text-decoration: none;
-  color: white;
+  color: black;
   transition: all 0.3s ease;
   font-size: clamp(16px, 3vw, 25px);
   font-weight: 500;
