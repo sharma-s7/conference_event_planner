@@ -38,3 +38,36 @@
 .right {
   margin-right: 0;
 }
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .display_box {
+    padding: 25px;
+  }
+
+  .header h3 {
+    font-size: 20px;
+  }
+
+  .price {
+    font-size: 28px;
+  }
+}
+@media (max-width: 480px) {
+  .pricing-app {
+    padding: 20px 10px;
+  }
+
+  .display_box {
+    padding: 20px;
+    border-radius: 8px;
+    margin: 0 80px 20px 0;
+  }
+
+  .header h3 {
+    font-size: 18px;
+  }
+
+  .price {
+    font-size: 24px;
+  }
+}
