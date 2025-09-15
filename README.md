@@ -35,4 +35,3 @@ A dynamic React application designed to simplify budgeting for conferences and m
 
 ---
 
-## 📦 Folder Structure
