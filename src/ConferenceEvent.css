@@ -246,8 +246,8 @@
   align-items: center;
   gap: 20px;
   font-size: clamp(20px, 4vw, 30px);
-  color: #333;
-  background: linear-gradient(135deg, #0800ff 0%, #374df3 100%);
+  color: #fff;
+  background: blue;
   border-radius: 15px;
   padding: clamp(15px, 3vw, 25px);
   width: min(90vw, 500px);
